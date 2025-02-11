@@ -2,11 +2,12 @@
 name = "near-smart-contract-2"
 description = "cargo-near-new-project-description"
 version = "0.1.0"
+authors = ["Yong Yu <ypyu@hotmail.com>"]
 edition = "2021"
 # TODO: Fill out the repository field to help NEAR ecosystem tools to discover your project.
 # NEP-0330 is automatically implemented for all contracts built with https://github.com/near/cargo-near.
 # Link to the repository will be available via `contract_source_metadata` view-function.
-repository = "https://github.com/<xxx>/<xxx>"
+repository = "https://github.com/yonyu/near-smart-contract-2.git"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
