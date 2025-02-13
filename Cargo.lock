@@ -2138,6 +2138,7 @@ dependencies = [
 name = "near-smart-contract-2"
 version = "0.1.0"
 dependencies = [
+ "hex",
  "near-sdk",
  "near-workspaces",
  "serde_json",
